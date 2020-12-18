@@ -1,0 +1,24 @@
+.main__about{
+    width: 800px;
+    height: 250px;
+    display: flex;
+    flex-grow: inherit;
+    flex-direction: column;
+    border-radius: 10px;
+    border: 2px solid rgb(228, 228, 228);
+    margin-top: 20px;
+    background-color: white;
+}
+.title__about{
+    font-size: large;
+    font-weight: 600;
+    color: rgb(77, 77, 77);
+    margin-left: 20px;
+}
+.text__about{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: -15px;
+    font-weight: 400;
+    color: rgb(77, 77, 77);
+}

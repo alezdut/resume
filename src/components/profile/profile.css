@@ -1,0 +1,79 @@
+.main__profile{
+    width: 240px;
+    height: 380px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    border: 2px solid rgb(228, 228, 228);
+    margin-top: 20px;
+    margin-left: 55px;
+    background-color: white;
+}
+
+.portada__profile{
+    width: 240px;
+    height: 70px;
+    display: flex;
+}
+.img__profile{
+    max-width: 240px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: flex;
+    object-fit: cover;
+}
+.images__profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.avatar__profile{
+    display: flex;
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    border: 2px solid white
+}
+.text__profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.title__profile{
+    display: flex;
+    margin-top: -30px;
+    font-weight: 600;
+    color: rgb(39, 39, 39);
+}
+.info__profile{
+    display: flex;
+    font-weight: 200;
+    padding: 2px;
+    text-align: center;
+}
+.subtitle__profile{
+    display: flex;
+}
+.link__profile{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 10px;
+    font-weight: 600;
+    font-size: small;
+    color: rgb(133, 133, 133);
+    cursor: pointer;
+    text-emphasis: none;
+}
+.icono__profile{
+    display: flex;
+    align-items: flex-start;
+    justify-content: left;
+    color: rgb(82, 82, 82);
+}
+.bookmark__profile{
+    margin-left: 10px;   
+}
+.contacto__profile{
+    margin-left: 5px;
+}

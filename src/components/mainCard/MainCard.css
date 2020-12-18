@@ -1,0 +1,41 @@
+.main__mainCard{
+    width: 600px;
+    display: flex;
+    flex-grow: inherit;
+    flex-direction: column;
+    border-radius: 10px;
+    border: 2px solid rgb(228, 228, 228);
+    margin-top: 20px;
+    background-color: white;
+}
+.Head__maincard{
+    display: flex;
+    flex-direction: row;
+    width: 600px;
+}
+.head_title__maincard{
+    font-weight: 600;
+    font-size: small;
+    margin-left: 20px;
+    color: rgb(39, 39, 39);
+}
+.sub__head{
+    margin-left: 5px;
+    font-size: small;
+    color: rgb(39, 39, 39);
+}
+.profile__maincard{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.content__maincard{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: -30px;
+    color: rgb(39, 39, 39);
+    text-decoration: none;
+}
+.imagen__maincard{
+    max-width: 550px;
+    
+}

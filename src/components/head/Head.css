@@ -1,0 +1,108 @@
+.main__head{
+    width: 600px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    border: 2px solid rgb(228, 228, 228);
+    margin-top: 20px;
+    background-color: white;
+}
+.open__head{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    margin-top: 10px;
+    width: 550px;
+    height: 50px;
+    border-radius: 30px;
+    border: 2px solid rgb(228, 228, 228);
+}
+.iconx__head{
+    margin-top: 13px;
+    margin-left: 20px;
+    color: rgb(112, 112, 112);
+}
+.textx__head{
+    margin-left: 10px;
+    color: rgb(112, 112, 112);
+}
+.icons__head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.foto__head{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.icon1__head{
+    color: rgb(0, 183, 255);
+}
+.icon2__head{
+    color: rgb(187, 137, 0);
+}
+.icon3__head{
+    color: rgb(88, 88, 88);
+}
+.icon4__head{
+    color: rgb(0, 214, 0);
+}
+.text__head{
+    margin-left: 5px;
+    margin-bottom: 5px;
+    color: rgb(112, 112, 112);
+}
+.cuerpo__head{
+    border-radius: 15px;
+    border: 2px solid rgb(199, 199, 199);
+    cursor: pointer;
+}
+.body__head{
+    display: flex;
+    flex-direction: row;
+}
+.title__head{
+    width: 500px;
+    font-size: large;
+    font-weight: 600;
+    
+}
+.avatar__head{
+    margin-top: 18px;
+}
+.texto__m__head{
+    font-weight: 600;
+    margin-left: 10px;
+}
+.icono__modal__head{
+    color: rgb(110, 110, 110);
+}
+.public__head{
+    display: flex;
+    flex-direction: row;
+    width: 150px;
+    height: 25px;
+    border-radius: 20px;
+    border: 2px solid gray;
+    margin-top: -15px;
+    margin-left: -5px;
+    object-fit: contain;
+}
+.cualquiera__head{
+    margin-top: 0px;
+    margin-left: 10px;
+}
+.tit__head{
+    color: rgb(110, 110, 110);
+    font-size: large;
+}
+.button__head{
+    width: 500px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+}

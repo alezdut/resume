@@ -1,0 +1,40 @@
+.main2__profile{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    width: 500px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.text__profile{
+    display: flex;
+    flex-direction: column;
+   
+}
+.bold__profile{
+    font-size: small;
+    margin-top: 0px;
+    margin-left: 10px;
+    font-weight: 600;
+    align-self: flex-start;
+}
+.sub__profile{
+    font-size: small;
+    margin-top: -12px;
+    margin-left: 10px;
+    font-weight: 200;
+}
+.icon__profile{
+    align-self: flex-start;
+    margin-left: 10px;
+    margin-top: -10px;
+    color: rgb(94, 94, 94);
+}
+.pub__profile{
+    font-size: small;
+    margin-top: -23px;
+    margin-left: 20px;
+    font-weight: 200;
+}

@@ -1,0 +1,61 @@
+.main__data{
+    width: 800px;
+    height: 1050px;
+    display: flex;
+    flex-grow: inherit;
+    flex-direction: column;
+    border-radius: 10px;
+    border: 2px solid rgb(228, 228, 228);
+    margin-top: 20px;
+    background-color: white;
+}
+.title__data{
+    font-size: large;
+    font-weight: 600;
+    color: rgb(95, 95, 95);
+    margin-left: 20px;
+}
+.jobs__data{
+    display: flex;
+    flex-direction: row;
+}
+.img__data{
+    height: 70px;
+    width: 70px;
+    object-fit: contain;
+    margin-left: 20px;
+}
+.imgg__data{
+    height: 70px;
+    width: 70px;
+    object-fit: contain;
+}
+.info__data{
+    display: flex;
+    flex-direction: column;
+}
+.tit__data{
+    font-weight: 600;
+    margin-left: 10px;
+    margin-top: -20px;
+    color: rgb(95, 95, 95);
+}
+.sub__data{
+    font-weight: 300;
+    margin-left: 10px;
+    margin-top: -30px;
+    color: rgb(95, 95, 95);
+}
+.subb__data{
+    font-weight: 300;
+    font-size: small;
+    margin-left: 10px;
+    margin-top: -30px;
+    color: rgb(95, 95, 95);
+}
+.text__data{
+    margin-left: 10px;
+    margin-top: -20px;
+    margin-right: 20px;
+    color: rgb(95, 95, 95);
+}

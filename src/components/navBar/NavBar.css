@@ -1,0 +1,107 @@
+.main__nav{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.box__nav{
+    max-width: 1200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.logo__nav{
+    display: flex;
+    margin-top: 5px;
+    justify-content: flex-start;
+    width: 50px;
+    cursor: pointer;
+}
+.img__nav{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 10px; 
+    height: 35px;
+    width: 35px;
+    border-radius: 5px;
+}
+.search__nav{
+    display: flex;
+    height: 50px;
+    width: 300px;
+}
+.iconsearch__nav{
+    margin-top: 20px;
+}
+.input__nav{
+    height: 30px;
+    width: 300px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(239, 244, 248);
+}
+.icons__nav{
+    margin-top: 15px;
+    display: flex;
+    width: 600px;
+    height: 50px;
+    justify-content: flex-end;
+    color: rgb(78, 78, 78);
+    margin-right: 30px;
+    
+}
+.inicio__nav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 30px;
+    font-size: small;
+    cursor: pointer;
+}
+.inicio__red{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 30px;
+    font-size: small;
+}
+.inicio__empleos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 30px;
+    font-size: small;
+    cursor: pointer;
+}
+.inicio__mensajes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 30px;
+    font-size: small;
+}
+.inicio__notificaciones{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 30px;
+    font-size: small;
+}
+.inicio__yo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 30px;
+    font-size: small;
+    cursor: pointer;
+}
+.avatar__nav{
+    margin-top: 10px;
+    display: flex;
+    height: 50px;
+    width: 50px;
+}
