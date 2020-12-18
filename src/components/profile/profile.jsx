@@ -61,7 +61,7 @@ export default function Profile(props) {
             <div className="links__profile">
                 <div className="link__profile">
                     <p onClick={props.yo}>See my resume</p>
-                    <a href="https://alezdut.github.io/portfolio/" style={{ textDecoration: 'none', color: "rgb(133, 133, 133)" }}><p>Spanish version</p></a>
+                    <a href="https://alezdut.github.io/portfolio/" style={{ textDecoration: 'none', color: "rgb(133, 133, 133)" }}><p>Version en español</p></a>
                 </div>
                 <div>
 
