@@ -19,7 +19,7 @@
     object-fit: cover;
 }
 .img__resume{
-    max-width: 800px;
+    width: 800px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     display: flex;
