@@ -18,6 +18,18 @@ var arr = [{
   saludo: `If you are interested you can see the code in my github page "https://github.com/alezdut/" along with the code of my other projects. Thank you for your visit!`,
   reactions: "11·5 comments"
 }, {
+  nombre: "Marcos",
+  sub: "is interested in this",
+  text: `I did this project as a challenge for a platform, it is an application to keep track of personal expenses,
+  allows the user to register an account and store both incoming and outgoing transactions, as well as a balance. It also allows filtering
+  operations by categories. They were used
+  the following technologies: React, PostgreSQL, Sequelize, Material UI, NodeJS, and ExpressJS.`,
+  subtext: "A very entertaining project, completed in just 48 hours.",
+  saludo: "If you want to see the code you can enter the link",
+  img: "https://raw.githubusercontent.com/alezdut/finance-app/master/images/2.jpg",
+  link: "https://github.com/alezdut/finance-app",
+  reactions: "10·8 comments"
+}, {
   nombre: "Eren",
   sub: "is interested in this",
   text: `We carried out this e-learning platform together with my colleagues as a final project, they were used the following technologies: React, Redux, MongoDB, mongoose, Material UI, NodeJS and ExpressJS.`,
@@ -39,7 +51,7 @@ var arr = [{
   nombre: "Ale",
   sub: "loves this",
   text: `After starting this year full of doubts, having to close my computer store, this opportunity appeared on my way and I decided to take advantage of it, today I am very happy to have completed the bootcamp, to have new knowledge and friends, and to feel ready to face one new stage of my life.`,
-  img: "https://media-exp1.licdn.com/dms/image/C4E22AQHb1WTVRchF5w/feedshare-shrink_1280-alternative/0/1606856614751?e=1611187200&v=beta&t=Q-kJ6X_CUYV_oNgWWDgEZrFN6bJPoh-tBgsKGPUYbUM",
+  img: "https://media-exp1.licdn.com/dms/image/C4E22AQHb1WTVRchF5w/feedshare-shrink_800/0/1606856614811?e=1614816000&v=beta&t=bHKLuCB8BZJpWWliUaPjMLUSMk4skqXRLPztdiVLrQg",
   reactions: "20·2 comments"
 }, {
   nombre: "Ale",
